@@ -1,0 +1,214 @@
+[
+  {
+    "scheme_id": "SCHM12345",
+    "scheme_type": "percentage",
+    "product_id": "PROD67890",
+    "brand": "CoolFizz",
+    "category": "Cold Drink",
+    "item_level": true,
+    "discount_value": 15,
+    "discount_unit": "%",
+    "valid_from": "2025-05-10",
+    "valid_to": "2025-06-10",
+    "items": [
+      {
+        "item_id": "ITEM001",
+        "item_name": "CoolFizz Cola 500ml",
+        "mrp": 40,
+        "discount_price": 34
+      },
+      {
+        "item_id": "ITEM002",
+        "item_name": "CoolFizz Orange 750ml",
+        "mrp": 60,
+        "discount_price": 51
+      }
+    ],
+    "created_by": "marketing_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12346",
+    "scheme_type": "value",
+    "product_id": "PROD67891",
+    "brand": "FizzUp",
+    "category": "Cold Drink",
+    "item_level": true,
+    "discount_value": 10,
+    "discount_unit": "INR",
+    "valid_from": "2025-05-12",
+    "valid_to": "2025-06-15",
+    "items": [
+      {
+        "item_id": "ITEM003",
+        "item_name": "FizzUp Lemon 500ml",
+        "mrp": 45,
+        "discount_price": 35
+      }
+    ],
+    "created_by": "sales_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12347",
+    "scheme_type": "percentage",
+    "product_id": "PROD67892",
+    "brand": "ChillMax",
+    "category": "Cold Drink",
+    "item_level": false,
+    "discount_value": 20,
+    "discount_unit": "%",
+    "valid_from": "2025-05-01",
+    "valid_to": "2025-05-31",
+    "items": [],
+    "created_by": "marketing_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12348",
+    "scheme_type": "value",
+    "product_id": "PROD67893",
+    "brand": "CoolFizz",
+    "category": "Cold Drink",
+    "item_level": true,
+    "discount_value": 5,
+    "discount_unit": "INR",
+    "valid_from": "2025-05-05",
+    "valid_to": "2025-06-05",
+    "items": [
+      {
+        "item_id": "ITEM004",
+        "item_name": "CoolFizz Cola 1L",
+        "mrp": 70,
+        "discount_price": 65
+      }
+    ],
+    "created_by": "product_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12349",
+    "scheme_type": "percentage",
+    "product_id": "PROD67894",
+    "brand": "ChillTime",
+    "category": "Cold Drink",
+    "item_level": true,
+    "discount_value": 25,
+    "discount_unit": "%",
+    "valid_from": "2025-05-08",
+    "valid_to": "2025-06-08",
+    "items": [
+      {
+        "item_id": "ITEM005",
+        "item_name": "ChillTime Mango 600ml",
+        "mrp": 55,
+        "discount_price": 41.25
+      }
+    ],
+    "created_by": "promo_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12350",
+    "scheme_type": "value",
+    "product_id": "PROD67895",
+    "brand": "FizzUp",
+    "category": "Cold Drink",
+    "item_level": false,
+    "discount_value": 8,
+    "discount_unit": "INR",
+    "valid_from": "2025-05-15",
+    "valid_to": "2025-06-20",
+    "items": [],
+    "created_by": "marketing_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12351",
+    "scheme_type": "percentage",
+    "product_id": "PROD67896",
+    "brand": "SipZest",
+    "category": "Cold Drink",
+    "item_level": true,
+    "discount_value": 10,
+    "discount_unit": "%",
+    "valid_from": "2025-05-10",
+    "valid_to": "2025-06-10",
+    "items": [
+      {
+        "item_id": "ITEM006",
+        "item_name": "SipZest Lime 500ml",
+        "mrp": 38,
+        "discount_price": 34.2
+      }
+    ],
+    "created_by": "marketing_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12352",
+    "scheme_type": "percentage",
+    "product_id": "PROD67897",
+    "brand": "Zingo",
+    "category": "Cold Drink",
+    "item_level": true,
+    "discount_value": 30,
+    "discount_unit": "%",
+    "valid_from": "2025-05-01",
+    "valid_to": "2025-06-01",
+    "items": [
+      {
+        "item_id": "ITEM007",
+        "item_name": "Zingo Apple 750ml",
+        "mrp": 60,
+        "discount_price": 42
+      }
+    ],
+    "created_by": "campaign_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12353",
+    "scheme_type": "value",
+    "product_id": "PROD67898",
+    "brand": "ChillMax",
+    "category": "Cold Drink",
+    "item_level": true,
+    "discount_value": 12,
+    "discount_unit": "INR",
+    "valid_from": "2025-05-12",
+    "valid_to": "2025-06-12",
+    "items": [
+      {
+        "item_id": "ITEM008",
+        "item_name": "ChillMax Cola 330ml",
+        "mrp": 35,
+        "discount_price": 23
+      }
+    ],
+    "created_by": "pricing_team",
+    "status": "active"
+  },
+  {
+    "scheme_id": "SCHM12354",
+    "scheme_type": "percentage",
+    "product_id": "PROD67899",
+    "brand": "FizzUp",
+    "category": "Cold Drink",
+    "item_level": true,
+    "discount_value": 5,
+    "discount_unit": "%",
+    "valid_from": "2025-05-09",
+    "valid_to": "2025-05-31",
+    "items": [
+      {
+        "item_id": "ITEM009",
+        "item_name": "FizzUp Soda 1L",
+        "mrp": 50,
+        "discount_price": 47.5
+      }
+    ],
+    "created_by": "sales_team",
+    "status": "active"
+  }
+]
